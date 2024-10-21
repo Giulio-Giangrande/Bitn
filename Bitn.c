@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-// Scrivere un programma bitn che prenda in input un valore intero N e un intero i e stampi a video il valore dell’i-esimo bit di N
+/* Scrivere un programma che prenda in input un valore intero N e un intero i
+e stampi a video il valore dell’i-esimo bit di N */
 
 int main() {
 	
